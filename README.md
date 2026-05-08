@@ -1,4 +1,4 @@
-# QuickSell E-commerce Storefront
+# QuickSell E-commerce Storefron
 
 A high-performance, fully responsive e-commerce interface built with modern Vanilla JavaScript, HTML5, and CSS3. This project replicates a premium shopping experience with lightning-fast delivery and smart product management.
 
